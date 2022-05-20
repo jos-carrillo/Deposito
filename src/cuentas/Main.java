@@ -3,7 +3,7 @@ package cuentas;
 
 /**
  *
- * @author Jose Carrillo Glez. - 1ºDAM
+ * @author Jose Carrillo Glez. - 1ºDAM - Entornos de Desarrollo
  * @version 1.0
  *  
  */
